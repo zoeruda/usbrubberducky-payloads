@@ -1,7 +1,7 @@
 REM Title: Beethovens-9th
 REM Author: Zoe Ronen
 REM Description: Open MuseScore and start composing
-REM Target: MacOS
+REM Target: Linux
 
 DELAY 500
 ALT-F2
