@@ -16,6 +16,7 @@ This repository contains payloads, extensions and languages for the Hak5 USB Rub
 </div>
 <br/>
 <p align="center">
+<a href="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fthumbs.gfycat.com%2FAmpleQuarrelsomeHawk-size_restricted.gif&sp=1679296396Td66b47e2eecd4bc840110e55db9c66ae726a43309ff87fb10c107ef7fc21abce"></a>
 <a href="https://payloadhub.com"><img src="https://cdn.shopify.com/s/files/1/0068/2142/files/payloadhub.png?v=1652474600"></a>
 <br/>
 <a href="https://hak5.org/blogs/payloads/tagged/usb-rubber-ducky">View Featured Ducky Payloads and Leaderboard</a>
