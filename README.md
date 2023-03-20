@@ -15,7 +15,7 @@ This repository contains payloads, extensions and languages for the Hak5 USB Rub
 <img src="https://img.shields.io/github/contributors/hak5/usbrubberducky-payloads?style=for-the-badge">
 </div>
 <br/>
-<p align="center">
+<p>
 
 ![proxy-image](https://user-images.githubusercontent.com/67850642/226274110-5b2985e5-21d3-4c40-b8e2-85f4103d0741.gif)
 
