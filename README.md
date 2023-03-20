@@ -16,8 +16,7 @@ This repository contains payloads, extensions and languages for the Hak5 USB Rub
 </div>
 <br/>
 
-<p align="center">
-![proxy-image](https://user-images.githubusercontent.com/67850642/226272455-801066ae-94af-4e52-9dec-0c037488bbb3.gif)
+<p align="center">![proxy-image](https://user-images.githubusercontent.com/67850642/226272455-801066ae-94af-4e52-9dec-0c037488bbb3.gif)
 
 <a href="https://payloadhub.com"><img src="https://cdn.shopify.com/s/files/1/0068/2142/files/payloadhub.png?v=1652474600"></a>
 <br/>
