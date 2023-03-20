@@ -24,7 +24,6 @@ This repository contains payloads, extensions and languages for the Hak5 USB Rub
 <br/>
 <a href="https://hak5.org/blogs/payloads/tagged/usb-rubber-ducky">View Featured Ducky Payloads and Leaderboard</a>
 <br/><i>Get your payload in front of thousands. Enter to win over $2,000 in prizes in the <a href="https://hak5.org/pages/payload-awards">Hak5 Payload Awards!</a></i>
-
 </p>
 
 
