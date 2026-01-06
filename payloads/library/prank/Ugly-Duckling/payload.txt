@@ -1,0 +1,33 @@
+REM Title: Ugly-Duckling
+REM Author: Zoe Ronen
+REM Description: This payload sends random keystrokes to a Linux target
+REM Target: Linux
+
+REM WARNING: This payload is bound to result in UNEXPECTED CONSEQUENCES.
+REM ANYTHING is possible.
+REM TEST ONLY on an EPHEMERAL Linux setup.
+
+$_RANDOM_MIN = 0
+$_RANDOM_MAX = 100
+
+DELAY 500
+INJECT_MOD GUI
+DELAY 100
+WHILE TRUE
+    VAR $R = $_RANDOM_INT
+    IF ($R < 20) THEN
+        VAR $C = $_RANDOM_CHAR_KEYCODE
+        INJECT_VAR $C
+    ELSE IF ($R < 40) THEN
+        SPACE
+    ELSE IF ($R < 60) THEN
+        ENTER
+    ELSE IF ($R < 80) THEN
+        TAB
+    ELSE IF ($R < 100) THEN
+        BACKSPACE
+    ELSE
+        GUI
+    END_IF
+    DELAY 50
+END_WHILE
