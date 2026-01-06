@@ -27,7 +27,7 @@ WHILE TRUE
     ELSE IF ($R < 100) THEN
         BACKSPACE
     ELSE
-        GUI
+        INJECT_MOD GUI
     END_IF
     DELAY 50
 END_WHILE
